@@ -20,7 +20,6 @@
 </div>
   <hr>
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/samuel-r-souza-1111b619a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
-  <img src="https://komarev.com/ghpvc/?username=Samuelsouzzza&label=PROFILE+VIEWS">
+  <a href="https://www.linkedin.com/in/samuel-r-souza-1111b619a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
